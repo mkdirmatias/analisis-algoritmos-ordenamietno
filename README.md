@@ -1,2 +1,11 @@
-# analisis-algoritmos-ordenamietno
-Analizar el tiempo de ejecución de los algoritmos de ordenamiento
+# Descripción
+Analizar el tiempo que demora en ejecutarse los algoritmos de ordenamiento:
+
+ - bubbleSort
+ - InsertionSort
+ - CountingSort
+ - SelectionSort
+ - QuickSort
+ - MergeSort
+
+ Analiza el tiempo que demora cada algoritmo en ordenar un vector de tamaño **n**, el cual lo ordena 50 veces.
